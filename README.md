@@ -13,5 +13,5 @@ Motivated developer focused on building responsive, clean, and user-friendly web
 ---
 
 ### Contact
-- Email: bodik.mozgovoy@gmail.com
+- Email: bohdan.mozghovyi.dev@gmail.com
 - Location: Prague, Czech Republic
